@@ -29,4 +29,6 @@ SSH into the Instance
 
 Next Create the Kubernetes
 ![image](https://github.com/user-attachments/assets/78690ae3-3077-493d-b5fd-c11033eee2f6)
+![image](https://github.com/user-attachments/assets/ecc2ce21-1de6-4255-ba2e-b77ffd6e9b97)
+
 
