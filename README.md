@@ -23,6 +23,8 @@ Step 1.  Create 3 EC2 Instance
 ![image](https://github.com/user-attachments/assets/02344fb0-167e-4a0e-a3ac-c2e1a57f2861)
 
 SSH into the Instance
+
+
 ![image](https://github.com/user-attachments/assets/f613e1b3-310f-4cab-9121-750c14ecfa25)
 
 Next Create the Kubernetes
