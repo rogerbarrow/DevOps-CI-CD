@@ -19,8 +19,9 @@ Two Approaches:
 Continuous Delivery: Ensures the application is always in a deployable state. Deployment to production still requires manual approval.
 Continuous Deployment: Fully automates deployment to production, eliminating manual approval steps.
 
-Step 1.  Create 3 EC2 Instance
-![image](https://github.com/user-attachments/assets/02344fb0-167e-4a0e-a3ac-c2e1a57f2861)
+Step 1.  Create 1 EC2 Instance
+![image](https://github.com/user-attachments/assets/b59c2bc5-a79b-426d-b02b-d8edd6d178c0)
+
 
 SSH into the Instance
 
