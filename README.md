@@ -34,6 +34,7 @@ Next install java which is required for Jenkins
 ![image](https://github.com/user-attachments/assets/0b7c7639-fe86-41ad-8d7a-549b094d054c)
 
 Next We install Jenkins
+
 ![image](https://github.com/user-attachments/assets/a9c6008e-f36d-47c8-88ee-4da735a2f96f)
 
 
