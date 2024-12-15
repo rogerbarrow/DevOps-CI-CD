@@ -33,8 +33,9 @@ Next install java which is required for Jenkins
 
 ![image](https://github.com/user-attachments/assets/0b7c7639-fe86-41ad-8d7a-549b094d054c)
 
-Next Create the Kubernetes
-![image](https://github.com/user-attachments/assets/78690ae3-3077-493d-b5fd-c11033eee2f6)
-![image](https://github.com/user-attachments/assets/ecc2ce21-1de6-4255-ba2e-b77ffd6e9b97)
+Next We install Jenkins
+![image](https://github.com/user-attachments/assets/a9c6008e-f36d-47c8-88ee-4da735a2f96f)
+
+
 
 
