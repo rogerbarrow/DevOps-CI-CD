@@ -29,6 +29,7 @@ SSH into the Instance
 ![image](https://github.com/user-attachments/assets/f613e1b3-310f-4cab-9121-750c14ecfa25)
 
 Next install java which is required for Jenkins
+![image](https://github.com/user-attachments/assets/38df7f2e-0141-4ae9-a7a3-a4b57b75cbc6)
 
 ![image](https://github.com/user-attachments/assets/0b7c7639-fe86-41ad-8d7a-549b094d054c)
 
