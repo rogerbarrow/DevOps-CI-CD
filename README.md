@@ -39,10 +39,13 @@ Next We install Jenkins
 
 ![image](https://github.com/user-attachments/assets/eb9232aa-46ba-4475-9f54-05da74db642e)
 
-next We install Plugins
+# Next We install Docker Plugins
 
 ![image](https://github.com/user-attachments/assets/badb9d41-9ed6-4e64-8f80-c9e9bfa307af)
 
 
+# Next Install sonar Plugin
+
+![image](https://github.com/user-attachments/assets/35bee0df-375f-4209-a3da-389adfd45cd7)
 
 
