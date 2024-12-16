@@ -51,3 +51,5 @@ Next We install Jenkins
 
 ![image](https://github.com/user-attachments/assets/7c6beec8-5a16-4969-9e49-55cc98c09fdc)
 
+![image](https://github.com/user-attachments/assets/7d23e9ac-371e-420f-be27-cd6b7c6c0a9d)
+
