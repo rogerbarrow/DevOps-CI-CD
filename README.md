@@ -53,3 +53,6 @@ Next We install Jenkins
 
 ![image](https://github.com/user-attachments/assets/7d23e9ac-371e-420f-be27-cd6b7c6c0a9d)
 
+Next we install docker
+![image](https://github.com/user-attachments/assets/0393838c-453e-4e70-900a-c690c7d2bd0e)
+
